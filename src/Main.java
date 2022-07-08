@@ -1,6 +1,6 @@
 /**
  * @author Carl-Emil Heiselberg Andersen, Dagmar Fischer Stephansen
- * @version %I%
+ * @version 08/07/2022
  */
 
 public class Main {
